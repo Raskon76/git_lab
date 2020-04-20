@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  Source.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  123.vcxproj -> c:\users\sasha meh\documents\visual studio 2015\Projects\123\Debug\123.exe
+  123.vcxproj -> c:\users\sasha meh\documents\visual studio 2015\Projects\123\Debug\123.pdb (Partial PDB)
